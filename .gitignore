@@ -1,0 +1,30 @@
+# Built files
+build
+coverage
+
+# Local config file
+config/env.local.json
+
+# NPM shiznit
+**/node_modules
+npm-debug.log
+
+# Mac crap
+.DS_STORE
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+tmp
+*.pid
+*.seed
+*.lock
+
+# Vim garbage
+*.swp
+*.swo
+
+test/temp/
